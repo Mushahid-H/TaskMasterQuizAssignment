@@ -1,0 +1,8 @@
+Notion
+https://www.notion.so/Requirements-for-taskMaster-aa8a807397d34def81dbcf076353733a?pvs=4
+
+Figma
+https://www.figma.com/file/AHXMV9ekrpQgMqMIHr1uR6/quiz-TaskMaster?type=design&node-id=0%3A1&mode=design&t=Me0O8UQ3bzNiVIbw-1
+
+Github repo
+https://github.com/Mushahid-H/TaskMasterQuizAssignment.git
